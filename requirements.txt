@@ -1,0 +1,7 @@
+awesome-slugify
+beautifulsoup4
+Pillow
+pypandoc
+python-dateutil
+requests
+toml

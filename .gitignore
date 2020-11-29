@@ -1,0 +1,5 @@
+posts/*
+env/*
+blog.xml
+dist/*
+__pycache__/*
